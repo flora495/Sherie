@@ -1,6 +1,8 @@
-## パーツ
-- スペーサー
-
+## コマンド
+cd 
+`cd C:\Users\F\qmk_firmware\keyboards`
+コンパイル
+`qmk compile -kb sherie -km default `
 
 ## memo
 
@@ -12,6 +14,8 @@ https://note.com/copkbd/n/n587afde1812e
 
 ATMEGA32U4直付の手順は以下を参照します。
 https://wiki.ai03.com/books/pcb-design/chapter/pcb-designer-guide
+
+https://taro-hayashi.github.io/LetsMakeaKeypadWithAtmega32u2/
 
 typeC周りの回路
 https://github.com/Unified-Daughterboard/UDB-S
