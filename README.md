@@ -1,6 +1,6 @@
 ## パーツ
 - スペーサー
-https://www.hirosugi-net.co.jp/shop/c/c10101010/
+
 
 ## memo
 
