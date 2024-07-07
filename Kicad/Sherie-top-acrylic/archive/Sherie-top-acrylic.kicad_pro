@@ -58,7 +58,11 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "clearance|324375000|102005000|eb64a03d-4531-4474-a043-3890d057bc5a|90a58658-c17c-4e60-8985-eadc3d843987",
+        "clearance|330345000|102005000|1817f983-d130-476c-96fb-a11d946dc106|357a897d-41d0-4003-b830-1a0f9a696f1a",
+        "malformed_courtyard|331110000|102475000|a3825857-1f96-4b02-9179-2c59aab96263|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -695,7 +699,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "./",
       "plot": "../../3dmodel/",
       "pos_files": "",
       "specctra_dsn": "",
