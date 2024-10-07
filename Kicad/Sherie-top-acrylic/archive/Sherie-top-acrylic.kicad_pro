@@ -700,7 +700,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "./",
-      "plot": "../../3dmodel/",
+      "plot": "../../../3dmodel/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
